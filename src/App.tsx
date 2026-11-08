@@ -175,7 +175,7 @@ export default function App() {
 
   const credit = (
     <footer className="credit">
-      Concept demo by <a href="https://johnsaita.github.io">Geo Intelligence Lab</a> · listings from rickwestrealty.co.ke (Nov 2026) ·
+      Concept demo by <a href="https://geointelligencelab.com">Geo Intelligence Lab</a> · listings from rickwestrealty.co.ke (Nov 2026) ·
       pins placed from listing text, confirm before use
     </footer>
   );
